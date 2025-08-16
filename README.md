@@ -1,4 +1,6 @@
 # Terminal Chat — ASCII Video Chat
+<img width="1089" height="515" alt="Screenshot 2025-08-15 at 10 54 19 PM" src="https://github.com/user-attachments/assets/642aa06d-290d-45d4-957a-eb6629cc440f" />
+<img width="721" height="526" alt="Screenshot 2025-08-15 at 10 53 56 PM" src="https://github.com/user-attachments/assets/02f54996-aeda-4bff-bc56-b725b61735ae" />
 
 Terminal-based group chat with animated ASCII “video.” Built in Rust with a three‑panel TUI and a WebSocket server.
 
